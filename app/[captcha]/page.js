@@ -71,7 +71,7 @@ export default function LoginPage() {
 
       {showCaptcha && (
         <ReCAPTCHA
-          sitekey="6Lc1hFsrAAAAAHGDLPq4pdFIH7S4nO2QWgHly1hR"
+          sitekey="no"
           onChange={onCaptchaChange}
           ref={captchaRef}
         />
