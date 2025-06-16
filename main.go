@@ -15,7 +15,7 @@ import (
 	"google.golang.org/protobuf/proto"
 )
 
-const recaptchaSecret = "6Lc1hFsrAAAAANo6jgCPhN8YEVV7sX6DTLtVd93C"
+const recaptchaSecret = "key"
 
 type Response struct {
 	Success     bool     `json:"success"`
