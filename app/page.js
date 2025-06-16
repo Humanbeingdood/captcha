@@ -40,7 +40,7 @@ export default function Home() {
         <div>
           <div>
             <ReCAPTCHA
-              sitekey="6Lc1hFsrAAAAAHGDLPq4pdFIH7S4nO2QWgHly1hR"
+              sitekey="j"
               //onChange={handleVerify}
               ref={captchaRef}
             />
